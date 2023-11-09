@@ -39,22 +39,25 @@ This quote by Umberto Eco has always led me to think that computer science shoul
 
 | Day        | Name                          | Organizer   | How      |
 | ---------- | ----------------------------- | ----------- | -------- |
-| 2016-11-26 | CodemotionIT                  | Codemotion  | Attendee |
-| 2022-05-04 | Databricks Italy Launch Event | Databricks  | Attendee |
-| 2022-06-24 | Azure Day                     | DotNetCode  | Attendee |
-| 2022-10-12 | Microsoft Ignite              | Microsoft   | Attendee |
-| 2022-10-22 | DevOps Heroes                 | Engage Labs | Attendee |
-| 2022-11-26 | Data Saturday                 | Engage Labs | Attendee |
-| 2022-12-06 | Storie di Data Mesh           | Agile Lab   | Attendee |
-| 2023-03-22 | Big Data Masterclass          | Boolean     | Speaker  |
-| 2023-03-23 | Demystifying Data Mesh        | UGIdotNET   | Attendee |
-| 2023-03-30 | Lakehouse Day                 | Databricks  | Attendee |
-| 2023-04-11 | Data Week Plus                | Boolean     | Attendee |
-| 2023-05-23 | Microsoft Build               | Microsoft   | Attendee |
-| 2023-06-05 | Italy North region launch     | Microsoft   | Attendee |
-| 2023-09-05 | Microsoft Build Italy         | Microsoft   | Attendee |
-| 2023-10-14 | Azure Day                     | DotNetCode  | Attendee |
+| 2023-11-18 | Data Saturday Parma           | Engage Labs | Attendee |
+| 2023-11-13 | Cloud Day 2023                | UGIdotNET   | Attendee |
+| 2023-11-09 | KLab 2023 #2 - Azure OpenAI   | KLab        | Attendee |
 | 2023-10-21 | DevOps Heroes                 | Engage Labs | Speaker  |
+| 2023-10-14 | Azure Day                     | DotNetCode  | Attendee |
+| 2023-09-05 | Microsoft Build Italy         | Microsoft   | Attendee |
+| 2023-06-05 | Italy North region launch     | Microsoft   | Attendee |
+| 2023-05-23 | Microsoft Build               | Microsoft   | Attendee |
+| 2023-04-11 | Data Week Plus                | Boolean     | Attendee |
+| 2023-03-30 | Lakehouse Day                 | Databricks  | Attendee |
+| 2023-03-23 | Demystifying Data Mesh        | UGIdotNET   | Attendee |
+| 2023-03-22 | Big Data Masterclass          | Boolean     | Speaker  |
+| 2022-12-06 | Storie di Data Mesh           | Agile Lab   | Attendee |
+| 2022-11-26 | Data Saturday                 | Engage Labs | Attendee |
+| 2022-10-22 | DevOps Heroes                 | Engage Labs | Attendee |
+| 2022-10-12 | Microsoft Ignite              | Microsoft   | Attendee |
+| 2022-06-24 | Azure Day                     | DotNetCode  | Attendee |
+| 2022-05-04 | Databricks Italy Launch Event | Databricks  | Attendee |
+| 2016-11-26 | CodemotionIT                  | Codemotion  | Attendee |
 
 # ✨ GitHub stats ✨
 
