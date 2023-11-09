@@ -39,6 +39,9 @@ This quote by Umberto Eco has always led me to think that computer science shoul
 
 | Day        | Name                          | Organizer   | How      |
 | ---------- | ----------------------------- | ----------- | -------- |
+| 2023-12-15 | Xmas Dev 2023                 | DotNetCode  | Attendee |
+| 2023-12-04 | .NET Conference 2023          | DotNetCode  | Attendee |
+| 2023-11-30 | Data + AI World Tour          | Databricks  | Attendee |
 | 2023-11-18 | Data Saturday Parma           | Engage Labs | Attendee |
 | 2023-11-13 | Cloud Day 2023                | UGIdotNET   | Attendee |
 | 2023-11-09 | KLab 2023 #2 - Azure OpenAI   | KLab        | Attendee |
