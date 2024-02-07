@@ -39,6 +39,7 @@ This quote by Umberto Eco has always led me to think that computer science shoul
 
 | Day        | Name                          | Organizer   | How      |
 | ---------- | ----------------------------- | ----------- | -------- |
+| 2024-02-06 | Databricks Partener Champuons | Databricks  | Attendee |
 | 2023-12-15 | Xmas Dev 2023                 | DotNetCode  | Attendee |
 | 2023-12-04 | .NET Conference 2023          | DotNetCode  | Attendee |
 | 2023-11-30 | Data + AI World Tour          | Databricks  | Attendee |
