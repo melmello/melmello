@@ -39,8 +39,9 @@ This quote by Umberto Eco has always led me to think that computer science shoul
 
 | Day        | Name                              | Organizer   | How      |
 | ---------- | --------------------------------- | ----------- | -------- |
-| 2024-04-30 | PyCon Italia                      | PyCon       | Speaker  |
-| 2024-04-29 | PyCon Italia                      | PyCon       | Speaker  |
+| 2024-05-30 | PyCon Italia                      | PyCon       | Speaker  |
+| 2024-05-29 | PyCon Italia                      | PyCon       | Speaker  |
+| 2024-05-07 | Databricks Day                    | NTT DATA    | Attendee |
 | 2024-04-11 | Data Intelligence Day (Barcelona) | Databricks  | Attendee |
 | 2024-11-26 | DATA + AI World Tour              | Databricks  | Attendee |
 | 2024-11-23 | Data Saturday                     | Engage Labs | Attendee |
