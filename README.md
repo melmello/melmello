@@ -35,33 +35,34 @@ This quote by Umberto Eco has always led me to think that computer science shoul
 
 [![Alt text](img/website.png "a title")](https://melmellogarage.xyz)
 
-# 📅 Conferences and Meetups
+# 📅 In Presence Conferences and Meetups
 
-| Day        | Name                          | Organizer   | How      |
-| ---------- | ----------------------------- | ----------- | -------- |
-| 2024-02-06 | Databricks Partener Champuons | Databricks  | Attendee |
-| 2023-12-15 | Xmas Dev 2023                 | DotNetCode  | Attendee |
-| 2023-12-04 | .NET Conference 2023          | DotNetCode  | Attendee |
-| 2023-11-30 | Data + AI World Tour          | Databricks  | Attendee |
-| 2023-11-18 | Data Saturday Parma           | Engage Labs | Attendee |
-| 2023-11-13 | Cloud Day 2023                | UGIdotNET   | Attendee |
-| 2023-11-09 | KLab 2023 #2 - Azure OpenAI   | KLab        | Attendee |
-| 2023-10-21 | DevOps Heroes                 | Engage Labs | Speaker  |
-| 2023-10-14 | Azure Day                     | DotNetCode  | Attendee |
-| 2023-09-05 | Microsoft Build Italy         | Microsoft   | Attendee |
-| 2023-06-05 | Italy North region launch     | Microsoft   | Attendee |
-| 2023-05-23 | Microsoft Build               | Microsoft   | Attendee |
-| 2023-04-11 | Data Week Plus                | Boolean     | Attendee |
-| 2023-03-30 | Lakehouse Day                 | Databricks  | Attendee |
-| 2023-03-23 | Demystifying Data Mesh        | UGIdotNET   | Attendee |
-| 2023-03-22 | Big Data Masterclass          | Boolean     | Speaker  |
-| 2022-12-06 | Storie di Data Mesh           | Agile Lab   | Attendee |
-| 2022-11-26 | Data Saturday                 | Engage Labs | Attendee |
-| 2022-10-22 | DevOps Heroes                 | Engage Labs | Attendee |
-| 2022-10-12 | Microsoft Ignite              | Microsoft   | Attendee |
-| 2022-06-24 | Azure Day                     | DotNetCode  | Attendee |
-| 2022-05-04 | Databricks Italy Launch Event | Databricks  | Attendee |
-| 2016-11-26 | CodemotionIT                  | Codemotion  | Attendee |
+| Day        | Name                              | Organizer   | How      |
+| ---------- | --------------------------------- | ----------- | -------- |
+| 2024-04-30 | PyCon Italia                      | PyCon       | Speaker  |
+| 2024-04-29 | PyCon Italia                      | PyCon       | Speaker  |
+| 2024-04-11 | Data Intelligence Day (Barcelona) | Databricks  | Attendee |
+| 2024-11-26 | DATA + AI World Tour              | Databricks  | Attendee |
+| 2024-11-23 | Data Saturday                     | Engage Labs | Attendee |
+| 2024-04-09 | Data Intelligence Day             | Databricks  | Attendee |
+| 2024-02-06 | Databricks Partner Champions      | Databricks  | Attendee |
+| 2023-11-30 | DATA + AI World Tour              | Databricks  | Attendee |
+| 2023-11-18 | Data Saturday Parma               | Engage Labs | Attendee |
+| 2023-11-09 | KLab 2023 #2 - Azure OpenAI       | KLab        | Attendee |
+| 2023-10-21 | DevOps Heroes                     | Engage Labs | Speaker  |
+| 2023-10-14 | Azure Day                         | DotNetCode  | Attendee |
+| 2023-09-05 | Microsoft Build Italy             | Microsoft   | Attendee |
+| 2023-06-05 | Italy North Region Launch         | Microsoft   | Attendee |
+| 2023-04-11 | Data Week Plus                    | Boolean     | Attendee |
+| 2023-03-30 | Lakehouse Day                     | Databricks  | Attendee |
+| 2023-03-23 | Demystifying Data Mesh            | UGIdotNET   | Attendee |
+| 2023-03-22 | Big Data Masterclass              | Boolean     | Speaker  |
+| 2022-11-26 | Data Saturday                     | Engage Labs | Attendee |
+| 2022-10-22 | DevOps Heroes                     | Engage Labs | Attendee |
+| 2022-10-12 | Microsoft Ignite                  | Microsoft   | Attendee |
+| 2022-06-24 | Azure Day                         | DotNetCode  | Attendee |
+| 2022-05-04 | Databricks Italy Launch Event     | Databricks  | Attendee |
+| 2016-11-26 | Codemotion                        | Codemotion  | Attendee |
 
 # ✨ GitHub stats ✨
 
